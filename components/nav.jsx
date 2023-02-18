@@ -15,7 +15,7 @@ export default function Nav({ title }) {
       <div className='flex relative px-3 py-2'>
         <Link href='/'>
           <div className='grid items-center text-xl h-full pr-4'>
-            <span className='font-bold'>Hannah's Recipes</span>
+            <span className='font-bold'>Hannah&apos;s Recipes</span>
           </div>
         </Link>
         <div className='bg-gray-200 dark:bg-gray-700 rounded w-1'></div>
